@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://g9nl0lv3ruqs82chl5795pom60kvm9hhpuv6a6ufrum4lu0em1mfuido.qc.dolfincdnx.cn:23508/xdispatch78e70f546f06ed86/bigota.d.miui.com/6.6.16/miui_HMNote1S_6.6.16_bcd4558090_4.4.zip?bsreqid=5303e8729fcb76b2334dee1722b12ab5
+  ROM_URL: http://bigota.d.miui.com/V9.2.2.0.KHKCNEK/miui_HMNote1S_V9.2.2.0.KHKCNEK_5562fee1c4_4.4.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
