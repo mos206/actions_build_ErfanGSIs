@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://otafsc.h2os.com/patch/CHN/OnePlus6Hydrogen/OnePlus6Hydrogen_22.K.45_045_2007191519/OnePlus6Hydrogen_22_OTA_045_all_2007191519_734ede.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://sagit.cooluc.com/AICP/aicp_sagit_q-15.0-UNOFFICIAL-20191201.zip
+  ROM_NAME: Generic
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
