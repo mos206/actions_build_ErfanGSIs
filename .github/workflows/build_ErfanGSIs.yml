@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sagit.cooluc.com/AICP/aicp_sagit_q-15.0-UNOFFICIAL-20191201.zip
+  ROM_URL: https://sagit.cooluc.com/Android%20Open%20Source%20Project%20Sagit/12-dev/aosp_sagit-userdebug-12.0-SP1A.211105.002-20211119.213120.zip
   ROM_NAME: Generic
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
