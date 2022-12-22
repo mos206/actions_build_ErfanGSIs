@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sagit.cooluc.com/Android%20Open%20Source%20Project%20Sagit/10.0-signed/aosp_sagit-userdebug-10.0-QQ3A.200805.001-20200807.234507.zip
+  ROM_URL: https://sagit.cooluc.com/nitrogen-project/Nitrogen-OS-P-sagit-20190509.zip
   ROM_NAME: Generic
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
